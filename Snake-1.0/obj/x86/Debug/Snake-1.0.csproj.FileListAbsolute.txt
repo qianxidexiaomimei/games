@@ -1,0 +1,84 @@
+D:\编程练习\Snake-1.0\bin\Debug\Snake-1.0.exe
+D:\编程练习\Snake-1.0\bin\Debug\Snake-1.0.pdb
+D:\编程练习\Snake-1.0\obj\x86\Debug\Snake_1._0.Form1.resources
+D:\编程练习\Snake-1.0\obj\x86\Debug\Snake_1._0.Properties.Resources.resources
+D:\编程练习\Snake-1.0\obj\x86\Debug\Snake-1.0.csproj.GenerateResource.Cache
+D:\编程练习\Snake-1.0\obj\x86\Debug\Snake-1.0.exe
+D:\编程练习\Snake-1.0\obj\x86\Debug\Snake-1.0.pdb
+C:\Users\BD\Desktop\Snake-1.0\obj\x86\Debug\Snake-1.0.exe
+C:\Users\BD\Desktop\Snake-1.0\obj\x86\Debug\Snake-1.0.pdb
+C:\Users\BD\Desktop\Snake-1.0\bin\Debug\Snake-1.0.exe
+C:\Users\BD\Desktop\Snake-1.0\bin\Debug\Snake-1.0.pdb
+C:\Users\BD\Desktop\Snake-1.0\obj\x86\Debug\Snake_1._0.Form1.resources
+C:\Users\BD\Desktop\Snake-1.0\obj\x86\Debug\Snake_1._0.Properties.Resources.resources
+C:\Users\BD\Desktop\Snake-1.0\obj\x86\Debug\Snake-1.0.csproj.GenerateResource.Cache
+C:\Users\BD\Desktop\Snake-1.0\obj\x86\Debug\Snake-1.0.csprojResolveAssemblyReference.cache
+C:\Users\BD\Desktop\Snake-1.0 - 副本\obj\x86\Debug\Snake-1.0.exe
+C:\Users\BD\Desktop\Snake-1.0 - 副本\obj\x86\Debug\Snake-1.0.pdb
+C:\Users\BD\Desktop\Snake-1.0 - 副本\bin\Debug\Snake-1.0.exe
+C:\Users\BD\Desktop\Snake-1.0 - 副本\bin\Debug\Snake-1.0.pdb
+C:\Users\BD\Desktop\Snake-1.0 - 副本\obj\x86\Debug\Snake-1.0.csprojResolveAssemblyReference.cache
+C:\Users\BD\Desktop\Snake-1.0 - 副本\obj\x86\Debug\Snake_1._0.Form1.resources
+C:\Users\BD\Desktop\Snake-1.0 - 副本\obj\x86\Debug\Snake_1._0.Properties.Resources.resources
+C:\Users\BD\Desktop\Snake-1.0 - 副本\obj\x86\Debug\Snake-1.0.csproj.GenerateResource.Cache
+D:\C#实验\Snake-2\Snake-1.0\obj\x86\Debug\Snake-1.0.exe
+D:\C#实验\Snake-2\Snake-1.0\obj\x86\Debug\Snake-1.0.pdb
+D:\C#实验\Snake-2\Snake-1.0\bin\Debug\Snake-1.0.exe
+D:\C#实验\Snake-2\Snake-1.0\bin\Debug\Snake-1.0.pdb
+D:\C#实验\Snake-2\Snake-1.0\obj\x86\Debug\Snake-1.0.csprojResolveAssemblyReference.cache
+D:\C#实验\Snake-2\Snake-1.0\obj\x86\Debug\Snake_1._0.Form1.resources
+D:\C#实验\Snake-2\Snake-1.0\obj\x86\Debug\Snake_1._0.Properties.Resources.resources
+D:\C#实验\Snake-2\Snake-1.0\obj\x86\Debug\Snake-1.0.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Snake-2\Snake-1.0\obj\x86\Debug\Snake-1.0.exe
+C:\Users\ASUS\Desktop\Snake-2\Snake-1.0\obj\x86\Debug\Snake-1.0.pdb
+C:\Users\ASUS\Desktop\Snake-2\Snake-1.0\bin\Debug\Snake-1.0.exe
+C:\Users\ASUS\Desktop\Snake-2\Snake-1.0\bin\Debug\Snake-1.0.pdb
+C:\Users\ASUS\Desktop\Snake-2\Snake-1.0\obj\x86\Debug\Snake-1.0.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Snake-2\Snake-1.0\obj\x86\Debug\Snake_1._0.Form1.resources
+C:\Users\ASUS\Desktop\Snake-2\Snake-1.0\obj\x86\Debug\Snake_1._0.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Snake-2\Snake-1.0\obj\x86\Debug\Snake-1.0.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\贪吃蛇哦\Snake-2\Snake-1.0\obj\x86\Debug\Snake-1.0.exe
+C:\Users\ASUS\Desktop\贪吃蛇哦\Snake-2\Snake-1.0\obj\x86\Debug\Snake-1.0.pdb
+C:\Users\ASUS\Desktop\贪吃蛇哦\Snake-2\Snake-1.0\bin\Debug\Snake-1.0.exe
+C:\Users\ASUS\Desktop\贪吃蛇哦\Snake-2\Snake-1.0\bin\Debug\Snake-1.0.pdb
+C:\Users\ASUS\Desktop\贪吃蛇哦\Snake-2\Snake-1.0\obj\x86\Debug\Snake-1.0.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\贪吃蛇哦\Snake-2\Snake-1.0\obj\x86\Debug\Snake_1._0.Properties.Resources.resources
+C:\Users\ASUS\Desktop\贪吃蛇哦\Snake-2\Snake-1.0\obj\x86\Debug\Snake-1.0.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\贪吃蛇哦\Snake-2\Snake-1.0\obj\x86\Debug\Snake_1._0.Form2.resources
+C:\Users\ASUS\Desktop\贪吃蛇哦\Snake-2\Snake-1.0\obj\x86\Debug\Snake_1._0.Form1.resources
+C:\Users\ASUS\Desktop\贪吃蛇哦\Snake-2\Snake-1.0\obj\x86\Debug\Snake_1._0.Form3.resources
+E:\面对对象\大作业\贪吃蛇哦\Snake-2\Snake-1.0\obj\x86\Debug\Snake-1.0.exe
+E:\面对对象\大作业\贪吃蛇哦\Snake-2\Snake-1.0\obj\x86\Debug\Snake-1.0.pdb
+E:\面对对象\大作业\贪吃蛇哦\Snake-2\Snake-1.0\bin\Debug\Snake-1.0.exe
+E:\面对对象\大作业\贪吃蛇哦\Snake-2\Snake-1.0\bin\Debug\Snake-1.0.pdb
+E:\面对对象\大作业\贪吃蛇哦\Snake-2\Snake-1.0\obj\x86\Debug\Snake-1.0.csprojResolveAssemblyReference.cache
+E:\面对对象\大作业\贪吃蛇哦\Snake-2\Snake-1.0\obj\x86\Debug\Snake_1._0.Form1.resources
+E:\面对对象\大作业\贪吃蛇哦\Snake-2\Snake-1.0\obj\x86\Debug\Snake_1._0.Form3.resources
+E:\面对对象\大作业\贪吃蛇哦\Snake-2\Snake-1.0\obj\x86\Debug\Snake_1._0.Properties.Resources.resources
+E:\面对对象\大作业\贪吃蛇哦\Snake-2\Snake-1.0\obj\x86\Debug\Snake_1._0.Form2.resources
+E:\面对对象\大作业\贪吃蛇哦\Snake-2\Snake-1.0\obj\x86\Debug\Snake-1.0.csproj.GenerateResource.Cache
+D:\娱乐软件\QQ\QQ下载文件\1219659393\FileRecv\Snake-2(1)\Snake-1.0\bin\Debug\Snake-1.0.exe
+D:\娱乐软件\QQ\QQ下载文件\1219659393\FileRecv\Snake-2(1)\Snake-1.0\bin\Debug\Snake-1.0.pdb
+D:\娱乐软件\QQ\QQ下载文件\1219659393\FileRecv\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake-1.0.csprojAssemblyReference.cache
+D:\娱乐软件\QQ\QQ下载文件\1219659393\FileRecv\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake_1._0.Form1.resources
+D:\娱乐软件\QQ\QQ下载文件\1219659393\FileRecv\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake_1._0.Form3.resources
+D:\娱乐软件\QQ\QQ下载文件\1219659393\FileRecv\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake_1._0.Properties.Resources.resources
+D:\娱乐软件\QQ\QQ下载文件\1219659393\FileRecv\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake_1._0.Form2.resources
+D:\娱乐软件\QQ\QQ下载文件\1219659393\FileRecv\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake-1.0.csproj.GenerateResource.cache
+D:\娱乐软件\QQ\QQ下载文件\1219659393\FileRecv\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake-1.0.csproj.CoreCompileInputs.cache
+D:\娱乐软件\QQ\QQ下载文件\1219659393\FileRecv\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake-1.0.exe
+D:\娱乐软件\QQ\QQ下载文件\1219659393\FileRecv\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake-1.0.pdb
+D:\学到的知识\面向对象\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake-1.0.exe
+D:\学到的知识\面向对象\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake-1.0.pdb
+D:\学到的知识\面向对象\Snake-2(1)\Snake-1.0\bin\Debug\Snake-1.0.exe
+D:\学到的知识\面向对象\Snake-2(1)\Snake-1.0\bin\Debug\Snake-1.0.pdb
+D:\学到的知识\面向对象\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake-1.0.csprojResolveAssemblyReference.cache
+D:\学到的知识\面向对象\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake_1._0.Form1.resources
+D:\学到的知识\面向对象\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake_1._0.Form3.resources
+D:\学到的知识\面向对象\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake_1._0.Properties.Resources.resources
+D:\学到的知识\面向对象\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake_1._0.Form2.resources
+D:\学到的知识\面向对象\Snake-2(1)\Snake-1.0\obj\x86\Debug\Snake-1.0.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Snake-1.0\obj\x86\Debug\Snake-1.0.exe
+C:\Users\Lenovo\Desktop\Snake-1.0\obj\x86\Debug\Snake-1.0.pdb
+E:\新建文件夹 (2)\Snake-1.0\obj\x86\Debug\Snake-1.0.exe
+E:\新建文件夹 (2)\Snake-1.0\obj\x86\Debug\Snake-1.0.pdb
